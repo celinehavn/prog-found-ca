@@ -21,12 +21,12 @@ else {
 var numbers =[1, 2, 3, 4, 5];
 
 for(var i = 0; index < numbers.length; index++) {
-    console.log(numbers[index]);
+  console.log(numbers[index]);
 }
 
 // Question 5 * counter or index?
 for(var counter = 15; counter <= 25; counter++) {
-    console.log(counter);
+  console.log(counter);
 }
 
 
@@ -40,23 +40,23 @@ for(var counter = 15; counter <= 25; counter++) {
 // Question 7
 var person = [
 
-    {
-        name: "Ida",
-        age: 24,
-        thePersonIsAWoman: true
-    },
+  {
+    name: "Ida",
+    age: 24,
+    thePersonIsAWoman: true
+  },
 
-    {
-        name: "Arild",
-        age: 61,
-        thePersonIsAWoman: false
-    }
+  {
+    name: "Arild",
+    age: 61,
+    thePersonIsAWoman: false
+  }
 ];
 
 for(var index = 0; index < person.length; index++) {
 
-    console.log(person[index].age);
-    console.log(person[index].thePersonIsAWoman);
+  console.log(person[index].age);
+  console.log(person[index].thePersonIsAWoman);
 }
 
 // Question 8
