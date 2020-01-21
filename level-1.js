@@ -20,7 +20,7 @@ else {
 // Question 4
 var numbers =[1, 2, 3, 4, 5];
 
-for(var i = 0; index < numbers.length; index++) {
+for(var index = 0; index < numbers.length; index++) {
   console.log(numbers[index]);
 }
 
